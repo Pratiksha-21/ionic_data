@@ -1,0 +1,31 @@
+{
+    "categories": [
+      {
+        "code": "03CLN",
+        "name": "Cleanliness general"
+      },
+      {
+        "code": "04TRQ",
+        "name": "Temperature"
+      },
+      {
+        "code": "05SCT",
+        "name": "Seat Comfort"
+      },
+      {
+        "code": "06IEL",
+        "name": "Interior Equipment"
+      },
+      {
+        "code": "07FSE",
+        "name": "Food service"
+      }
+    ],
+    "subCategories": {
+      "03CLN": ["Seat Area/Seats Stained", "Trash/Floor,Seat,Bin Full", "Tray Table Dirty", "Windows-Interior", "Vestibule dirty","Carpet/Tile-Dirty/Stained"],
+      "04TRQ": ["Noisy Extr-Trucks", "Noisy Intr-Blower","Rough Ride","Car Too Hot","Car Too Cold","High / Low Coupler"],
+      "06IEL": ["Attendant Call Sys", "Outlet-110v AC","Lighting - Step Lights","Lighting - SrvcLckr/Cabnt","Lighting - Cove","Lighting - Other"],
+      "07FSE":["Dishwasher Problems","Refridg/Freezer","Microwave/Oven","Grill/Griddle-Warming","Cabnt/Tble","Coffee Maker"],
+      "05SCT": ["Seat Arm Rest", "Seat Leg/Foot Rest", "Seat Back", "Seat Bottom Damage", "Seat Back Pouch Damgd"]
+    }
+  }
