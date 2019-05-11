@@ -1,4 +1,5 @@
 {
+  "api1" : {
     "categories": [
       {
         "code": "03CLN",
@@ -34,4 +35,134 @@
         {"Level": ["Upper", "Lower"]},
         {"ADA": ["YES", "NO"]}
     ]
-  }
+  },
+  "api2": [
+      {
+        "carNum": "CAR 33407",
+        "category": "Temperature",
+        "subcategory": "Rough Ride",
+        "seat": "A-End ADA Upper"
+      },
+      {
+        "carNum": "CAR 33408",
+        "category": "Seat Comfort",
+        "subcategory": "Car Too Cold",
+        "seat": "A-End Lower"
+      },
+      {
+        "carNum": "CAR 33409",
+        "category": "Seat Comfort",
+        "subcategory": "Rough Ride",
+        "seat": "B-End ADA Upper"
+      },
+      {
+        "carNum": "CAR 33410",
+        "category": "Interior Equipment",
+        "subcategory": "Car Too Cold",
+        "seat": "Lower"
+      },
+      {
+        "carNum": "CAR 33412",
+        "category": "Interior Equipment",
+        "subcategory": "Refridg/Freezer",
+        "seat": "B-End Lower"
+      },
+      {
+        "carNum": "CAR 33411",
+        "category": "Interior Equipment",
+        "subcategory": "Refridg/Freezer",
+        "seat": "A-End Lower"
+      },
+      {
+        "carNum": "CAR 33412",
+        "category": "Interior Equipment",
+        "subcategory": "Refridg/Freezer",
+        "seat": "B-End Lower"
+      },
+      {
+        "carNum": "CAR 33409",
+        "category": "Seat Comfort",
+        "subcategory": "Rough Ride",
+        "seat": "B-End ADA Upper"
+      },
+      {
+        "carNum": "CAR 33410",
+        "category": "Interior Equipment",
+        "subcategory": "Car Too Cold",
+        "seat": "Lower"
+      },
+      {
+        "carNum": "CAR 33409",
+        "category": "Seat Comfort",
+        "subcategory": "Rough Ride",
+        "seat": "B-End ADA Upper"
+      },
+      {
+        "carNum": "CAR 33410",
+        "category": "Interior Equipment",
+        "subcategory": "Car Too Cold",
+        "seat": "Lower"
+      },
+      {
+        "carNum": "CAR 33409",
+        "category": "Seat Comfort",
+        "subcategory": "Rough Ride",
+        "seat": "B-End ADA Upper"
+      },
+      {
+        "carNum": "CAR 33410",
+        "category": "Interior Equipment",
+        "subcategory": "Car Too Cold",
+        "seat": "Lower"
+      },
+      {
+        "carNum": "CAR 33409",
+        "category": "Seat Comfort",
+        "subcategory": "Rough Ride",
+        "seat": "B-End ADA Upper"
+      },
+      {
+        "carNum": "CAR 33410",
+        "category": "Interior Equipment",
+        "subcategory": "Car Too Cold",
+        "seat": "Lower"
+      },
+      {
+        "carNum": "CAR 33409",
+        "category": "Seat Comfort",
+        "subcategory": "Rough Ride",
+        "seat": "B-End ADA Upper"
+      },
+      {
+        "carNum": "CAR 33410",
+        "category": "Interior Equipment",
+        "subcategory": "Car Too Cold",
+        "seat": "Lower"
+      },
+      {
+        "carNum": "CAR 33409",
+        "category": "Seat Comfort",
+        "subcategory": "Rough Ride",
+        "seat": "B-End ADA Upper"
+      },
+      {
+        "carNum": "CAR 33410",
+        "category": "Interior Equipment",
+        "subcategory": "Car Too Cold",
+        "seat": "Lower"
+      },
+      {
+        "carNum": "CAR 33409",
+        "category": "Seat Comfort",
+        "subcategory": "Rough Ride",
+        "seat": "B-End ADA Upper"
+      },
+      {
+        "carNum": "CAR 33410",
+        "category": "Interior Equipment",
+        "subcategory": "Car Too Cold",
+        "seat": "Lower"
+      }
+      
+    ]
+}
