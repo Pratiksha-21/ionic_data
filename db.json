@@ -27,5 +27,11 @@
       "06IEL": ["Attendant Call Sys", "Outlet-110v AC","Lighting - Step Lights","Lighting - SrvcLckr/Cabnt","Lighting - Cove","Lighting - Other"],
       "07FSE":["Dishwasher Problems","Refridg/Freezer","Microwave/Oven","Grill/Griddle-Warming","Cabnt/Tble","Coffee Maker"],
       "05SCT": ["Seat Arm Rest", "Seat Leg/Foot Rest", "Seat Back", "Seat Bottom Damage", "Seat Back Pouch Damgd"]
-    }
+    },
+    "carNumber" : ["00010","001","002","004","005","006","007","008","009","00011"],
+    "seatLocation": [
+        {"CarLocation": ["A-End", "B-End"]},
+        {"Level": ["Upper", "Lower"]},
+        {"ADA": ["YES", "NO"]}
+    ]
   }
